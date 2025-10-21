@@ -2293,14 +2293,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area {
-  background: url(../img/header-bg.jpg) center;
+  background: url(../img/header-bg.png) center;
   background-size: cover;
 }
 
 .banner-area .overlay-bg {
   background-color: rgba(0, 0, 0, 0.7);
 }
-
+s
 .banner-content {
   margin-top: -90px;
   text-align: center;
@@ -2634,8 +2634,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .gallery-area .grid-item img {
-  width: 100%;
-  height: 100%;
+  width: 100% !important;
+  height: 100% !important;
 }
 
 .gallery-area .grid-item.loaded {
